@@ -1,0 +1,5 @@
+{
+  "name": "Ethiopia Infrastructure Planning Platform",
+  "description": "Integrated Infrastructure Planning Platform for Ethiopia featuring AI-driven collision detection and gap analysis.",
+  "requestFramePermissions": ["geolocation"]
+}
